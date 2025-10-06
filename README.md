@@ -26,6 +26,7 @@ Technology Stack
 5. Testing Type: Functional / UI Automation  
 
  Selenium Concepts Practiced
+ 
 1.Locating elements using XPath, Name, and CSS Selectors  
 2.Handling dropdowns and auto-suggestions  
 3. Managing waits (Implicit and Explicit Waits)  
