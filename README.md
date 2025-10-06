@@ -41,5 +41,4 @@ How to Run the Tests
 4. Run each class individually using Run As → Java Application.
 
 
-## Project Structure
 
